@@ -5,7 +5,11 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 This is a test.
+=======
+This is a bug test.
+>>>>>>> Stashed changes
 =======
 This is a bug test.
 >>>>>>> Stashed changes
